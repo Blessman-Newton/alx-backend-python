@@ -1,0 +1,1079 @@
+[
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Mapping",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TypeVar",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Mapping",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "MutableMapping",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Generator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Mapping",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "run",
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "isExtraImport": true,
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "Task",
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "isExtraImport": true,
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "create_task",
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "isExtraImport": true,
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "isExtraImport": true,
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "isExtraImport": true,
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "gather",
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "isExtraImport": true,
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "uniform",
+        "importPath": "random",
+        "description": "random",
+        "isExtraImport": true,
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "uniform",
+        "importPath": "random",
+        "description": "random",
+        "isExtraImport": true,
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "get_json",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "access_nested_map",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "memoize",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "access_nested_map",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_json",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "memoize",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "GithubOrgClient",
+        "importPath": "client",
+        "description": "client",
+        "isExtraImport": true,
+        "detail": "client",
+        "documentation": {}
+    },
+    {
+        "label": "TEST_PAYLOAD",
+        "importPath": "fixtures",
+        "description": "fixtures",
+        "isExtraImport": true,
+        "detail": "fixtures",
+        "documentation": {}
+    },
+    {
+        "label": "parameterized",
+        "importPath": "parameterized",
+        "description": "parameterized",
+        "isExtraImport": true,
+        "detail": "parameterized",
+        "documentation": {}
+    },
+    {
+        "label": "parameterized_class",
+        "importPath": "parameterized",
+        "description": "parameterized",
+        "isExtraImport": true,
+        "detail": "parameterized",
+        "documentation": {}
+    },
+    {
+        "label": "parameterized",
+        "importPath": "parameterized",
+        "description": "parameterized",
+        "isExtraImport": true,
+        "detail": "parameterized",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "unittest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "unittest",
+        "description": "unittest",
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "patch",
+        "importPath": "unittest.mock",
+        "description": "unittest.mock",
+        "isExtraImport": true,
+        "detail": "unittest.mock",
+        "documentation": {}
+    },
+    {
+        "label": "PropertyMock",
+        "importPath": "unittest.mock",
+        "description": "unittest.mock",
+        "isExtraImport": true,
+        "detail": "unittest.mock",
+        "documentation": {}
+    },
+    {
+        "label": "Mock",
+        "importPath": "unittest.mock",
+        "description": "unittest.mock",
+        "isExtraImport": true,
+        "detail": "unittest.mock",
+        "documentation": {}
+    },
+    {
+        "label": "patch",
+        "importPath": "unittest.mock",
+        "description": "unittest.mock",
+        "isExtraImport": true,
+        "detail": "unittest.mock",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "wraps",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "add",
+        "kind": 2,
+        "importPath": "0x00-python_variable_annotations.0-add",
+        "description": "0x00-python_variable_annotations.0-add",
+        "peekOfCode": "def add(a: float, b: float) -> float:\n    '''\n        Returns sum of two floats.\n    '''\n    return a + b",
+        "detail": "0x00-python_variable_annotations.0-add",
+        "documentation": {}
+    },
+    {
+        "label": "concat",
+        "kind": 2,
+        "importPath": "0x00-python_variable_annotations.1-concat",
+        "description": "0x00-python_variable_annotations.1-concat",
+        "peekOfCode": "def concat(str1: str, str2: str) -> str:\n    \"\"\" Returns sum of two strings \"\"\"\n    return str1 + str2",
+        "detail": "0x00-python_variable_annotations.1-concat",
+        "documentation": {}
+    },
+    {
+        "label": "safe_first_element",
+        "kind": 2,
+        "importPath": "0x00-python_variable_annotations.100-safe_first_element",
+        "description": "0x00-python_variable_annotations.100-safe_first_element",
+        "peekOfCode": "def safe_first_element(lst: Sequence[Any]) -> Union[Any, None]:\n    \"\"\" Safe first element \"\"\"\n    if lst:\n        return lst[0]\n    else:\n        return None",
+        "detail": "0x00-python_variable_annotations.100-safe_first_element",
+        "documentation": {}
+    },
+    {
+        "label": "safely_get_value",
+        "kind": 2,
+        "importPath": "0x00-python_variable_annotations.101-safely_get_value",
+        "description": "0x00-python_variable_annotations.101-safely_get_value",
+        "peekOfCode": "def safely_get_value(dct: Mapping, key: Any,\n                     default: Union[T, None] = None\n                     ) -> Union[Any, T]:\n    \"\"\" Safely get value \"\"\"\n    if key in dct:\n        return dct[key]\n    else:\n        return default",
+        "detail": "0x00-python_variable_annotations.101-safely_get_value",
+        "documentation": {}
+    },
+    {
+        "label": "T",
+        "kind": 5,
+        "importPath": "0x00-python_variable_annotations.101-safely_get_value",
+        "description": "0x00-python_variable_annotations.101-safely_get_value",
+        "peekOfCode": "T = TypeVar('T')\ndef safely_get_value(dct: Mapping, key: Any,\n                     default: Union[T, None] = None\n                     ) -> Union[Any, T]:\n    \"\"\" Safely get value \"\"\"\n    if key in dct:\n        return dct[key]\n    else:\n        return default",
+        "detail": "0x00-python_variable_annotations.101-safely_get_value",
+        "documentation": {}
+    },
+    {
+        "label": "zoom_array",
+        "kind": 2,
+        "importPath": "0x00-python_variable_annotations.102-type_checking",
+        "description": "0x00-python_variable_annotations.102-type_checking",
+        "peekOfCode": "def zoom_array(lst: Tuple, factor: int = 2) -> List:\n    \"\"\" Zoom Array \"\"\"\n    zoomed_in: List = [\n        item for item in lst\n        for i in range(factor)\n    ]\n    return zoomed_in\narray = (12, 72, 91)\nzoom_2x = zoom_array(array)\nzoom_3x = zoom_array(array, 3)",
+        "detail": "0x00-python_variable_annotations.102-type_checking",
+        "documentation": {}
+    },
+    {
+        "label": "array",
+        "kind": 5,
+        "importPath": "0x00-python_variable_annotations.102-type_checking",
+        "description": "0x00-python_variable_annotations.102-type_checking",
+        "peekOfCode": "array = (12, 72, 91)\nzoom_2x = zoom_array(array)\nzoom_3x = zoom_array(array, 3)",
+        "detail": "0x00-python_variable_annotations.102-type_checking",
+        "documentation": {}
+    },
+    {
+        "label": "zoom_2x",
+        "kind": 5,
+        "importPath": "0x00-python_variable_annotations.102-type_checking",
+        "description": "0x00-python_variable_annotations.102-type_checking",
+        "peekOfCode": "zoom_2x = zoom_array(array)\nzoom_3x = zoom_array(array, 3)",
+        "detail": "0x00-python_variable_annotations.102-type_checking",
+        "documentation": {}
+    },
+    {
+        "label": "zoom_3x",
+        "kind": 5,
+        "importPath": "0x00-python_variable_annotations.102-type_checking",
+        "description": "0x00-python_variable_annotations.102-type_checking",
+        "peekOfCode": "zoom_3x = zoom_array(array, 3)",
+        "detail": "0x00-python_variable_annotations.102-type_checking",
+        "documentation": {}
+    },
+    {
+        "label": "floor",
+        "kind": 2,
+        "importPath": "0x00-python_variable_annotations.2-floor",
+        "description": "0x00-python_variable_annotations.2-floor",
+        "peekOfCode": "def floor(n: float) -> int:\n    \"\"\" Returns the floor of the float \"\"\"\n    return math.floor(n)",
+        "detail": "0x00-python_variable_annotations.2-floor",
+        "documentation": {}
+    },
+    {
+        "label": "to_str",
+        "kind": 2,
+        "importPath": "0x00-python_variable_annotations.3-to_str",
+        "description": "0x00-python_variable_annotations.3-to_str",
+        "peekOfCode": "def to_str(n: float) -> str:\n    \"\"\" Returns the string representation of the float. \"\"\"\n    return str(n)",
+        "detail": "0x00-python_variable_annotations.3-to_str",
+        "documentation": {}
+    },
+    {
+        "label": "sum_list",
+        "kind": 2,
+        "importPath": "0x00-python_variable_annotations.5-sum_list",
+        "description": "0x00-python_variable_annotations.5-sum_list",
+        "peekOfCode": "def sum_list(input_list: List[float]) -> float:\n    \"\"\"\n    Takes a list input_list of floats as argument\n    returns their sum as a float.\n    \"\"\"\n    return sum(input_list)",
+        "detail": "0x00-python_variable_annotations.5-sum_list",
+        "documentation": {}
+    },
+    {
+        "label": "sum_mixed_list",
+        "kind": 2,
+        "importPath": "0x00-python_variable_annotations.6-sum_mixed_list",
+        "description": "0x00-python_variable_annotations.6-sum_mixed_list",
+        "peekOfCode": "def sum_mixed_list(mxd_lst: List[Union[int, float]]) -> float:\n    \"\"\"  returns sum as a float. \"\"\"\n    return float(sum(mxd_lst))",
+        "detail": "0x00-python_variable_annotations.6-sum_mixed_list",
+        "documentation": {}
+    },
+    {
+        "label": "to_kv",
+        "kind": 2,
+        "importPath": "0x00-python_variable_annotations.7-to_kv",
+        "description": "0x00-python_variable_annotations.7-to_kv",
+        "peekOfCode": "def to_kv(k: str, v: Union[int, float]) -> Tuple[str, float]:\n    \"\"\"\n    takes a string k and an int OR float v as arguments\n    returns a tuple.\n    \"\"\"\n    return (k, v**2)",
+        "detail": "0x00-python_variable_annotations.7-to_kv",
+        "documentation": {}
+    },
+    {
+        "label": "make_multiplier",
+        "kind": 2,
+        "importPath": "0x00-python_variable_annotations.8-make_multiplier",
+        "description": "0x00-python_variable_annotations.8-make_multiplier",
+        "peekOfCode": "def make_multiplier(multiplier: float) -> Callable[[float], float]:\n    \"\"\"\n    takes a float multiplier as argument,\n    returns a function that multiplies a float by multiplier.\n    \"\"\"\n    def f(n: float) -> float:\n        \"\"\" multiplies a float by multiplier \"\"\"\n        return float(n * multiplier)\n    return f",
+        "detail": "0x00-python_variable_annotations.8-make_multiplier",
+        "documentation": {}
+    },
+    {
+        "label": "element_length",
+        "kind": 2,
+        "importPath": "0x00-python_variable_annotations.9-element_length",
+        "description": "0x00-python_variable_annotations.9-element_length",
+        "peekOfCode": "def element_length(lst: Iterable[Sequence]) -> List[Tuple[Sequence, int]]:\n    \"\"\" Element length \"\"\"\n    return [(i, len(i)) for i in lst]",
+        "detail": "0x00-python_variable_annotations.9-element_length",
+        "documentation": {}
+    },
+    {
+        "label": "wait_random",
+        "kind": 5,
+        "importPath": "0x01-python_async_function.0-main",
+        "description": "0x01-python_async_function.0-main",
+        "peekOfCode": "wait_random = __import__('0-basic_async_syntax').wait_random\nprint(asyncio.run(wait_random()))\nprint(asyncio.run(wait_random(5)))\nprint(asyncio.run(wait_random(15)))",
+        "detail": "0x01-python_async_function.0-main",
+        "documentation": {}
+    },
+    {
+        "label": "wait_random",
+        "kind": 5,
+        "importPath": "0x01-python_async_function.1-concurrent_coroutines",
+        "description": "0x01-python_async_function.1-concurrent_coroutines",
+        "peekOfCode": "wait_random = __import__('0-basic_async_syntax').wait_random\nasync def wait_n(n: int, max_delay: int) -> List[float]:\n    \"\"\"\n    spawn wait_random n times with the specified max_delay.\n    \"\"\"\n    tasks = [asyncio.create_task(wait_random(max_delay)) for _ in range(n)]\n    return [await task for task in asyncio.as_completed(tasks)]",
+        "detail": "0x01-python_async_function.1-concurrent_coroutines",
+        "documentation": {}
+    },
+    {
+        "label": "wait_n",
+        "kind": 5,
+        "importPath": "0x01-python_async_function.1-main",
+        "description": "0x01-python_async_function.1-main",
+        "peekOfCode": "wait_n = __import__('1-concurrent_coroutines').wait_n\nprint(asyncio.run(wait_n(5, 5)))\nprint(asyncio.run(wait_n(10, 7)))\nprint(asyncio.run(wait_n(10, 0)))",
+        "detail": "0x01-python_async_function.1-main",
+        "documentation": {}
+    },
+    {
+        "label": "measure_time",
+        "kind": 5,
+        "importPath": "0x01-python_async_function.2-main",
+        "description": "0x01-python_async_function.2-main",
+        "peekOfCode": "measure_time = __import__('2-measure_runtime').measure_time\nn = 5\nmax_delay = 9\nprint(measure_time(n, max_delay))",
+        "detail": "0x01-python_async_function.2-main",
+        "documentation": {}
+    },
+    {
+        "label": "n",
+        "kind": 5,
+        "importPath": "0x01-python_async_function.2-main",
+        "description": "0x01-python_async_function.2-main",
+        "peekOfCode": "n = 5\nmax_delay = 9\nprint(measure_time(n, max_delay))",
+        "detail": "0x01-python_async_function.2-main",
+        "documentation": {}
+    },
+    {
+        "label": "max_delay",
+        "kind": 5,
+        "importPath": "0x01-python_async_function.2-main",
+        "description": "0x01-python_async_function.2-main",
+        "peekOfCode": "max_delay = 9\nprint(measure_time(n, max_delay))",
+        "detail": "0x01-python_async_function.2-main",
+        "documentation": {}
+    },
+    {
+        "label": "measure_time",
+        "kind": 2,
+        "importPath": "0x01-python_async_function.2-measure_runtime",
+        "description": "0x01-python_async_function.2-measure_runtime",
+        "peekOfCode": "def measure_time(n: int, max_delay: int) -> float:\n    \"\"\" Measure the runtime \"\"\"\n    start = time()\n    run(wait_n(n, max_delay))\n    end = time()\n    return (end - start) / n",
+        "detail": "0x01-python_async_function.2-measure_runtime",
+        "documentation": {}
+    },
+    {
+        "label": "wait_n",
+        "kind": 5,
+        "importPath": "0x01-python_async_function.2-measure_runtime",
+        "description": "0x01-python_async_function.2-measure_runtime",
+        "peekOfCode": "wait_n = __import__('1-concurrent_coroutines').wait_n\ndef measure_time(n: int, max_delay: int) -> float:\n    \"\"\" Measure the runtime \"\"\"\n    start = time()\n    run(wait_n(n, max_delay))\n    end = time()\n    return (end - start) / n",
+        "detail": "0x01-python_async_function.2-measure_runtime",
+        "documentation": {}
+    },
+    {
+        "label": "task_wait_random",
+        "kind": 5,
+        "importPath": "0x01-python_async_function.3-main",
+        "description": "0x01-python_async_function.3-main",
+        "peekOfCode": "task_wait_random = __import__('3-tasks').task_wait_random\nasync def test(max_delay: int) -> float:\n    task = task_wait_random(max_delay)\n    await task\n    print(task.__class__)\nasyncio.run(test(5))",
+        "detail": "0x01-python_async_function.3-main",
+        "documentation": {}
+    },
+    {
+        "label": "task_wait_random",
+        "kind": 2,
+        "importPath": "0x01-python_async_function.3-tasks",
+        "description": "0x01-python_async_function.3-tasks",
+        "peekOfCode": "def task_wait_random(max_delay: int) -> Task:\n    \"\"\" Tasks \"\"\"\n    task = create_task(wait_random(max_delay))\n    return task",
+        "detail": "0x01-python_async_function.3-tasks",
+        "documentation": {}
+    },
+    {
+        "label": "wait_random",
+        "kind": 5,
+        "importPath": "0x01-python_async_function.3-tasks",
+        "description": "0x01-python_async_function.3-tasks",
+        "peekOfCode": "wait_random = __import__('0-basic_async_syntax').wait_random\ndef task_wait_random(max_delay: int) -> Task:\n    \"\"\" Tasks \"\"\"\n    task = create_task(wait_random(max_delay))\n    return task",
+        "detail": "0x01-python_async_function.3-tasks",
+        "documentation": {}
+    },
+    {
+        "label": "task_wait_n",
+        "kind": 5,
+        "importPath": "0x01-python_async_function.4-main",
+        "description": "0x01-python_async_function.4-main",
+        "peekOfCode": "task_wait_n = __import__('4-tasks').task_wait_n\nn = 5\nmax_delay = 6\nprint(asyncio.run(task_wait_n(n, max_delay)))",
+        "detail": "0x01-python_async_function.4-main",
+        "documentation": {}
+    },
+    {
+        "label": "n",
+        "kind": 5,
+        "importPath": "0x01-python_async_function.4-main",
+        "description": "0x01-python_async_function.4-main",
+        "peekOfCode": "n = 5\nmax_delay = 6\nprint(asyncio.run(task_wait_n(n, max_delay)))",
+        "detail": "0x01-python_async_function.4-main",
+        "documentation": {}
+    },
+    {
+        "label": "max_delay",
+        "kind": 5,
+        "importPath": "0x01-python_async_function.4-main",
+        "description": "0x01-python_async_function.4-main",
+        "peekOfCode": "max_delay = 6\nprint(asyncio.run(task_wait_n(n, max_delay)))",
+        "detail": "0x01-python_async_function.4-main",
+        "documentation": {}
+    },
+    {
+        "label": "task_wait_random",
+        "kind": 5,
+        "importPath": "0x01-python_async_function.4-tasks",
+        "description": "0x01-python_async_function.4-tasks",
+        "peekOfCode": "task_wait_random = __import__('3-tasks').task_wait_random\nasync def task_wait_n(n: int, max_delay: int) -> List[float]:\n    \"\"\"\n    spawn task_wait_random n times with the specified max_delay.\n    \"\"\"\n    tasks = [task_wait_random(max_delay) for _ in range(n)]\n    return [await task for task in asyncio.as_completed(tasks)]",
+        "detail": "0x01-python_async_function.4-tasks",
+        "documentation": {}
+    },
+    {
+        "label": "async_generator",
+        "kind": 5,
+        "importPath": "0x02-python_async_comprehension.0-main",
+        "description": "0x02-python_async_comprehension.0-main",
+        "peekOfCode": "async_generator = __import__('0-async_generator').async_generator\nasync def print_yielded_values():\n    result = []\n    async for i in async_generator():\n        result.append(i)\n    print(result)\nasyncio.run(print_yielded_values())",
+        "detail": "0x02-python_async_comprehension.0-main",
+        "documentation": {}
+    },
+    {
+        "label": "async_generator",
+        "kind": 5,
+        "importPath": "0x02-python_async_comprehension.1-async_comprehension",
+        "description": "0x02-python_async_comprehension.1-async_comprehension",
+        "peekOfCode": "async_generator = __import__('0-async_generator').async_generator\nasync def async_comprehension() -> List[float]:\n    \"\"\" Async Comprehensions  \"\"\"\n    a = [i async for i in async_generator()]\n    return a",
+        "detail": "0x02-python_async_comprehension.1-async_comprehension",
+        "documentation": {}
+    },
+    {
+        "label": "async_comprehension",
+        "kind": 5,
+        "importPath": "0x02-python_async_comprehension.1-main",
+        "description": "0x02-python_async_comprehension.1-main",
+        "peekOfCode": "async_comprehension = __import__('1-async_comprehension').async_comprehension\nasync def main():\n    print(await async_comprehension())\nasyncio.run(main())",
+        "detail": "0x02-python_async_comprehension.1-main",
+        "documentation": {}
+    },
+    {
+        "label": "measure_runtime",
+        "kind": 5,
+        "importPath": "0x02-python_async_comprehension.2-main",
+        "description": "0x02-python_async_comprehension.2-main",
+        "peekOfCode": "measure_runtime = __import__('2-measure_runtime').measure_runtime\nasync def main():\n    return await(measure_runtime())\nprint(\n    asyncio.run(main())\n)",
+        "detail": "0x02-python_async_comprehension.2-main",
+        "documentation": {}
+    },
+    {
+        "label": "async_comprehension",
+        "kind": 5,
+        "importPath": "0x02-python_async_comprehension.2-measure_runtime",
+        "description": "0x02-python_async_comprehension.2-measure_runtime",
+        "peekOfCode": "async_comprehension = __import__('1-async_comprehension').async_comprehension\nasync def measure_runtime() -> float:\n    \"\"\" Run time for four parallel comprehensions \"\"\"\n    start = time()\n    tasks = [async_comprehension() for i in range(4)]\n    await gather(*tasks)\n    end = time()\n    return (end - start)",
+        "detail": "0x02-python_async_comprehension.2-measure_runtime",
+        "documentation": {}
+    },
+    {
+        "label": "GithubOrgClient",
+        "kind": 6,
+        "importPath": "0x03-Unittests_and_integration_tests.client",
+        "description": "0x03-Unittests_and_integration_tests.client",
+        "peekOfCode": "class GithubOrgClient:\n    \"\"\"A Githib org client\n    \"\"\"\n    ORG_URL = \"https://api.github.com/orgs/{org}\"\n    def __init__(self, org_name: str) -> None:\n        \"\"\"Init method of GithubOrgClient\"\"\"\n        self._org_name = org_name\n    @memoize\n    def org(self) -> Dict:\n        \"\"\"Memoize org\"\"\"",
+        "detail": "0x03-Unittests_and_integration_tests.client",
+        "documentation": {}
+    },
+    {
+        "label": "TEST_PAYLOAD",
+        "kind": 5,
+        "importPath": "0x03-Unittests_and_integration_tests.fixtures",
+        "description": "0x03-Unittests_and_integration_tests.fixtures",
+        "peekOfCode": "TEST_PAYLOAD = [\n  (\n    {\"repos_url\": \"https://api.github.com/orgs/google/repos\"},\n    [\n      {\n        \"id\": 7697149,\n        \"node_id\": \"MDEwOlJlcG9zaXRvcnk3Njk3MTQ5\",\n        \"name\": \"episodes.dart\",\n        \"full_name\": \"google/episodes.dart\",\n        \"private\": False,",
+        "detail": "0x03-Unittests_and_integration_tests.fixtures",
+        "documentation": {}
+    },
+    {
+        "label": "TestGithubOrgClient",
+        "kind": 6,
+        "importPath": "0x03-Unittests_and_integration_tests.test_client",
+        "description": "0x03-Unittests_and_integration_tests.test_client",
+        "peekOfCode": "class TestGithubOrgClient(unittest.TestCase):\n    \"\"\" Class for Testing Github Org Client \"\"\"\n    @parameterized.expand([\n        ('google'),\n        ('abc')\n    ])\n    @patch('client.get_json')\n    def test_org(self, input, mock):\n        \"\"\"Test that GithubOrgClient.org returns the correct value\"\"\"\n        test_class = GithubOrgClient(input)",
+        "detail": "0x03-Unittests_and_integration_tests.test_client",
+        "documentation": {}
+    },
+    {
+        "label": "TestIntegrationGithubOrgClient",
+        "kind": 6,
+        "importPath": "0x03-Unittests_and_integration_tests.test_client",
+        "description": "0x03-Unittests_and_integration_tests.test_client",
+        "peekOfCode": "class TestIntegrationGithubOrgClient(unittest.TestCase):\n    \"\"\" Class for Integration test of fixtures \"\"\"\n    @classmethod\n    def setUpClass(cls):\n        \"\"\"A class method called before tests in an individual class are run\"\"\"\n        # def my_side_effect(url):\n        #     \"\"\" Side Effect function for test \"\"\"\n        #     test_url = \"https://api.github.com/orgs/google\"\n        #     if url == test_url:\n        #         return cls.org_payload",
+        "detail": "0x03-Unittests_and_integration_tests.test_client",
+        "documentation": {}
+    },
+    {
+        "label": "TestAccessNestedMap",
+        "kind": 6,
+        "importPath": "0x03-Unittests_and_integration_tests.test_utils",
+        "description": "0x03-Unittests_and_integration_tests.test_utils",
+        "peekOfCode": "class TestAccessNestedMap(unittest.TestCase):\n    \"\"\" Class for Testing Access Nested Map \"\"\"\n    @parameterized.expand([\n        ({\"a\": 1}, (\"a\",), 1),\n        ({\"a\": {\"b\": 2}}, (\"a\",), {'b': 2}),\n        ({\"a\": {\"b\": 2}}, (\"a\", \"b\"), 2)\n    ])\n    def test_access_nested_map(self, nested_map, path, expected):\n        \"\"\" Test that the method returns what it is supposed to \"\"\"\n        self.assertEqual(access_nested_map(nested_map, path), expected)",
+        "detail": "0x03-Unittests_and_integration_tests.test_utils",
+        "documentation": {}
+    },
+    {
+        "label": "TestGetJson",
+        "kind": 6,
+        "importPath": "0x03-Unittests_and_integration_tests.test_utils",
+        "description": "0x03-Unittests_and_integration_tests.test_utils",
+        "peekOfCode": "class TestGetJson(unittest.TestCase):\n    \"\"\" Class for Testing Get Json \"\"\"\n    @parameterized.expand([\n        (\"http://example.com\", {\"payload\": True}),\n        (\"http://holberton.io\", {\"payload\": False})\n    ])\n    def test_get_json(self, test_url, test_payload):\n        \"\"\" Test that utils.get_json returns the expected result.\"\"\"\n        config = {'return_value.json.return_value': test_payload}\n        patcher = patch('requests.get', **config)",
+        "detail": "0x03-Unittests_and_integration_tests.test_utils",
+        "documentation": {}
+    },
+    {
+        "label": "TestMemoize",
+        "kind": 6,
+        "importPath": "0x03-Unittests_and_integration_tests.test_utils",
+        "description": "0x03-Unittests_and_integration_tests.test_utils",
+        "peekOfCode": "class TestMemoize(unittest.TestCase):\n    \"\"\" Class for Testing Memoize \"\"\"\n    def test_memoize(self):\n        \"\"\" Test that when calling a_property twice, the correct result\n        is returned but a_method is only called once using\n        assert_called_once\n        \"\"\"\n        class TestClass:\n            \"\"\" Test Class for wrapping with memoize \"\"\"\n            def a_method(self):",
+        "detail": "0x03-Unittests_and_integration_tests.test_utils",
+        "documentation": {}
+    },
+    {
+        "label": "access_nested_map",
+        "kind": 2,
+        "importPath": "0x03-Unittests_and_integration_tests.utils",
+        "description": "0x03-Unittests_and_integration_tests.utils",
+        "peekOfCode": "def access_nested_map(nested_map: Mapping, path: Sequence) -> Any:\n    \"\"\"Access nested map with key path.\n    Parameters\n    ----------\n    nested_map: Mapping\n        A nested map\n    path: Sequence\n        a sequence of key representing a path to the value\n    Example\n    -------",
+        "detail": "0x03-Unittests_and_integration_tests.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_json",
+        "kind": 2,
+        "importPath": "0x03-Unittests_and_integration_tests.utils",
+        "description": "0x03-Unittests_and_integration_tests.utils",
+        "peekOfCode": "def get_json(url: str) -> Dict:\n    \"\"\"Get JSON from remote URL.\n    \"\"\"\n    response = requests.get(url)\n    return response.json()\ndef memoize(fn: Callable) -> Callable:\n    \"\"\"Decorator to memoize a method.\n    Example\n    -------\n    class MyClass:",
+        "detail": "0x03-Unittests_and_integration_tests.utils",
+        "documentation": {}
+    },
+    {
+        "label": "memoize",
+        "kind": 2,
+        "importPath": "0x03-Unittests_and_integration_tests.utils",
+        "description": "0x03-Unittests_and_integration_tests.utils",
+        "peekOfCode": "def memoize(fn: Callable) -> Callable:\n    \"\"\"Decorator to memoize a method.\n    Example\n    -------\n    class MyClass:\n        @memoize\n        def a_method(self):\n            print(\"a_method called\")\n            return 42\n    >>> my_object = MyClass()",
+        "detail": "0x03-Unittests_and_integration_tests.utils",
+        "documentation": {}
+    },
+    {
+        "label": "__all__",
+        "kind": 5,
+        "importPath": "0x03-Unittests_and_integration_tests.utils",
+        "description": "0x03-Unittests_and_integration_tests.utils",
+        "peekOfCode": "__all__ = [\n    \"access_nested_map\",\n    \"get_json\",\n    \"memoize\",\n]\ndef access_nested_map(nested_map: Mapping, path: Sequence) -> Any:\n    \"\"\"Access nested map with key path.\n    Parameters\n    ----------\n    nested_map: Mapping",
+        "detail": "0x03-Unittests_and_integration_tests.utils",
+        "documentation": {}
+    }
+]
